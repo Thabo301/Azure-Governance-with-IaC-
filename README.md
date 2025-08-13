@@ -30,3 +30,5 @@ Repository Contents:
 main.bicep: The Bicep template used to deploy all resources.
 
 README.md: This project documentation.
+
+Screenshots of services used & deployed resources
