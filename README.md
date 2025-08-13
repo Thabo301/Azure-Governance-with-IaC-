@@ -1,4 +1,4 @@
-# Azure-Governance-with-IaC#
+# Azure-Governance-with-IaC
 
 Problem In many organizations, manual cloud resource deployment can lead to human error, security vulnerabilities, and inconsistent configurations. The goal of this project was to address this by building a secure, consistent, and fully governed Azure environment using Infrastructure as Code (IaC). The project demonstrates a proactive approach to cloud administration, focusing on security, governance, and automation.
 Solution
